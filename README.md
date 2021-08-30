@@ -29,15 +29,12 @@
 <details>
   <summary>+ Links</summary>
   
-  #### Donates
-  <a href="">
-    <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" />
-  <a/>
+  #### Donations 💰
   <a href="https://www.paypal.com/donate?hosted_button_id=AEHKSHS58VBKU" title="PayPal" target="_blank" style="cursor: alias">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
   <a/>
   
-  #### Streaming & Games
+  #### Streaming & Games 👾
   <a href="https://youtube.com/rydermais" title="YouTube" target="_blank" style="cursor: alias">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   <a/>
@@ -51,14 +48,8 @@
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   <a/>
 <br>
-  <a href="">
-    <img src="https://img.shields.io/badge/Intel-Xeon®_6th_gen-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-  <a/>
-  <a href="">
-    <img src="https://img.shields.io/badge/NVIDIA-GT_610-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <a/>
     
-#### Social
+#### Social 👩‍👧‍👦
     
   <a href="https://web.telegram.org/z/#789099334" title="Telegram" target="_blank" style="cursor: alias">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -69,22 +60,19 @@
   <a href="https://www.instagram.com/bryceed/" title="Instagram" target="_blank" style="cursor: alias">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   <a/>
-  <a href="#" style="display:none">
-    <img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" />
-  <a/>
 
-#### Music
+#### Music 🎵
     
-  <a href="https://open.spotify.com/user/welltvd?si=90cc578856814051" title="Instagram" target="_blank" style="cursor: alias">
+  <a href="https://open.spotify.com/user/welltvd?si=90cc578856814051" title="Spotify" target="_blank" style="cursor: alias">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
   <a/>
-  <a href="https://www.deezer.com/br/profile/2789474802" title="Instagram" target="_blank" style="cursor: alias">
+  <a href="https://www.deezer.com/br/profile/2789474802" title="Deezer" target="_blank" style="cursor: alias">
     <img src="https://img.shields.io/badge/Deezer-142473?style=for-the-badge&logo=deezer&logoColor=white" />
   <a/>
-  <a href="https://music.youtube.com/channel/UCyi4MjN0PrNMIa8MMOve8lg" title="Instagram" target="_blank" style="cursor: alias">
+  <a href="https://music.youtube.com/channel/UCyi4MjN0PrNMIa8MMOve8lg" title="YouTube Music" target="_blank" style="cursor: alias">
     <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" />
   <a/>
-  <a href="https://soundcloud.com/welltvd" title="Instagram" target="_blank" style="cursor: alias">
+  <a href="https://soundcloud.com/welltvd" title="SoundCloud" target="_blank" style="cursor: alias">
     <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />
   <a/>
 </details>
