@@ -7,7 +7,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryceed&layout=compact&theme=dracula&show_icons=true&custom_title=Habilidades%20%28Skills%29&locale=pt-br" />
 </a>
 <hr>
-<div style="text-align:center; width: max-content; display: table">
   
 <a href="https://linkedin.com/in/wellington-do-nascimento" title="LinkedIn" target="_blank" style="cursor: alias">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -39,16 +38,16 @@
   <a/>
   
   #### Streaming & Games
-  <a href="">
+  <a href="https://youtube.com/rydermais" title="YouTube" target="_blank" style="cursor: alias">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   <a/>
-  <a href="">
+  <a href="https://twitch.tv/Bryceed">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   <a/>
-  <a href="">
+  <a href="https://account.xbox.com/pt-br/profile?gamertag=BryceedBR" title="Xbox" target="_blank" style="cursor: alias">
     <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
   <a/>
-  <a href="">
+  <a href="https://steamcommunity.com/id/Bryceed" title="Xbox" target="_blank" style="cursor: alias">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   <a/>
 <br>
@@ -61,39 +60,31 @@
     
 #### Social
     
-  <a href="">
+  <a href="https://web.telegram.org/z/#789099334" title="Telegram" target="_blank" style="cursor: alias">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   <a/>
-  <a href="">
+  <a href="https://twitter.com/welltvd" title="Telegram" target="_blank" style="cursor: alias">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   <a/>
-  <a href="">
+  <a href="https://www.instagram.com/bryceed/" title="Instagram" target="_blank" style="cursor: alias">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   <a/>
-<br>
-  <a href="">
+  <a href="#" style="display:none">
     <img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" />
-  <a/>
-
-  <a href="">
-    <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
-  <a/>
-  <a href="">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   <a/>
 
 #### Music
     
-  <a href="">
+  <a href="https://open.spotify.com/user/welltvd?si=90cc578856814051" title="Instagram" target="_blank" style="cursor: alias">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
   <a/>
-  <a href="">
-    <img src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" />
+  <a href="https://www.deezer.com/br/profile/2789474802" title="Instagram" target="_blank" style="cursor: alias">
+    <img src="https://img.shields.io/badge/Deezer-142473?style=for-the-badge&logo=deezer&logoColor=white" />
   <a/>
-  <a href="">
+  <a href="https://music.youtube.com/channel/UCyi4MjN0PrNMIa8MMOve8lg" title="Instagram" target="_blank" style="cursor: alias">
     <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" />
   <a/>
-  <a href="">
+  <a href="https://soundcloud.com/welltvd" title="Instagram" target="_blank" style="cursor: alias">
     <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />
   <a/>
 </details>
