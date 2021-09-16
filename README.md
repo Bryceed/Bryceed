@@ -1,4 +1,5 @@
 <h3>👨‍💻 Perfil <small>(profile)</small></h3>
+Olá! Meu nome é <b>Wellington</b>, tenho <b>22 anos</b> (2021) e sou de <b>Guarulhos/SP</b>.<br>Sou um entusiasta de tecnologia que está tentando transformar o hobby em profissão.<br><br><b>Boas-vindas a todos!<b>
 <hr>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bryceed&theme=dracula&show_icons=true&custom_title=Estatísticas%20%28Stats%29&include_all_commits=true&locale=pt-br" />
