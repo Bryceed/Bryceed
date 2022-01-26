@@ -1,10 +1,10 @@
 <h3>👨‍💻 Perfil <small>(profile)</small></h3>
 Olá! Meu nome é <b>Wellington</b>, tenho <b>22 anos</b> (2021) e sou de <b>Guarulhos/SP</b>.<br>Sou um entusiasta de tecnologia que está tentando transformar o hobby em profissão.<br><br><b>Boas-vindas a todos!<b>
 <hr>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!--<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bryceed&theme=dracula&show_icons=true&custom_title=Estatísticas%20%28Stats%29&include_all_commits=true&locale=pt-br" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+</a>-->
+<a align="center" href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryceed&layout=compact&theme=dracula&show_icons=true&custom_title=Habilidades%20%28Skills%29&locale=pt-br" />
 </a>
 <hr>
@@ -29,11 +29,6 @@ Olá! Meu nome é <b>Wellington</b>, tenho <b>22 anos</b> (2021) e sou de <b>Gua
 <a/><br>
 <details>
   <summary>+ Links</summary>
-  
-  #### Donations 💰
-  <a href="https://www.paypal.com/donate?hosted_button_id=AEHKSHS58VBKU" title="PayPal" target="_blank" style="cursor: alias">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
-  <a/>
   
   #### Streaming & Games 👾
   <a href="https://youtube.com/rydermais" title="YouTube" target="_blank" style="cursor: alias">
@@ -75,5 +70,10 @@ Olá! Meu nome é <b>Wellington</b>, tenho <b>22 anos</b> (2021) e sou de <b>Gua
   <a/>
   <a href="https://soundcloud.com/welltvd" title="SoundCloud" target="_blank" style="cursor: alias">
     <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />
+  <a/>
+    
+#### Donations 💰
+  <a href="https://www.paypal.com/donate?hosted_button_id=AEHKSHS58VBKU" title="PayPal" target="_blank" style="cursor: alias">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
   <a/>
 </details>
