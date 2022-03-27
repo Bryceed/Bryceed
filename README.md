@@ -1,4 +1,4 @@
-<h3>👨‍💻 Perfil <small>(profile)</small></h3>
+<h3>👨‍💻 Perfil <small>(Profile)</small></h3>
 Olá! Meu nome é <b>Wellington</b>, tenho <b>22 anos</b> e sou de <b>Guarulhos/SP</b>.<br>Sou um entusiasta em tecnologia, que está tentando transformar o hobby em profissão.<br><br><b>Boas-vindas a tod@s!<b>
 <hr>
 <!--<a href="https://github.com/anuraghazra/github-readme-stats">
