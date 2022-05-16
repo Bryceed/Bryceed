@@ -8,15 +8,16 @@ Olá! Meu nome é <b>Wellington</b>, tenho <b>22 anos</b> e sou de <b>Guarulhos/
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryceed&layout=compact&theme=dracula&show_icons=true&custom_title=Habilidades%20%28Skills%29&locale=pt-br" />
 </a>
 <hr>
-  
+
+<a href="https://codepen.io/bryceed" title="CodePen" target="_blank" style="cursor: alias">
+  <img src="https://img.shields.io/badge/CODEPEN-000000?style=for-the-badge&logo=codepen" />
+<a/>
 <a href="https://linkedin.com/in/wellington-do-nascimento" title="LinkedIn" target="_blank" style="cursor: alias">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<a/> ‾ 
-<a href="https://discord.gg/kMpZKFyQmX" title="Discord Server" target="_blank" style="cursor: alias">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 <a/>
-<a href="https://facebook.com/wellingtvd" title="Facebook" target="_blank" style="cursor: alias">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+‾ 
+<a href="https://discord.gg/kMpZKFyQmX" title="Discord Server" target="_blank" style="cursor: alias">
+  <img src="https://img.shields.io/badge/Discord-5562EA?style=for-the-badge&logo=discord&logoColor=white" />
 <a/>
 <a href="https://m.me/wellingtvd" title="Messenger" target="_blank" style="cursor: alias">
   <img src="https://img.shields.io/badge/Messenger-1877F2?style=for-the-badge&logo=messenger&logoColor=white" style="cursor: alias"/>
@@ -76,4 +77,7 @@ Olá! Meu nome é <b>Wellington</b>, tenho <b>22 anos</b> e sou de <b>Guarulhos/
   <a href="https://www.paypal.com/donate?hosted_button_id=AEHKSHS58VBKU" title="PayPal" target="_blank" style="cursor: alias">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
   <a/>
+  <a href="https://www.coinpayments.net/index.php?cmd=_pos&reset=1&merchant=bee837c2a94b098b386accbde8943cc3&item_name=Order+Payment&currency=BRL&allow_currency=1" title="CoinPayments" target="_blank" style="cursor: alias">
+	  <img src="https://img.shields.io/badge/CoinPayments-POS-F7931A?style=for-the-badge&logo=BITCOIN" />
+  </a>
 </details>
