@@ -1,14 +1,23 @@
-<h3>👨‍💻 Perfil <small>(Profile)</small></h3>
-Olá! Meu nome é <b>Wellington</b>, tenho <b>22 anos</b> e sou de <b>Guarulhos/SP</b>.<br>Sou um entusiasta em tecnologia, que está tentando transformar o hobby em profissão.<br><br><b>Boas-vindas a tod@s!<b>
-<hr>
-<!--<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bryceed&theme=dracula&show_icons=true&custom_title=Estatísticas%20%28Stats%29&include_all_commits=true&locale=pt-br" />
-</a>-->
-<a align="center" href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryceed&layout=compact&theme=dracula&show_icons=true&custom_title=Habilidades%20%28Skills%29&locale=pt-br" />
-</a>
-<hr>
+![image](https://user-images.githubusercontent.com/42657376/170413478-030eea08-4946-4e7f-9b40-33f0311bb4c0.png)
 
+
+<h3>👋 Presentation:</small></h3>
+<p align="center">Hi! My name is <b>Wellington</b>, I have <b>22 years</b> and I'm from Guarulhos (São Paulo/<b>Brazil</b>).<br><br></p>
+<h3>🌎 Missions:</small></h3>
+<p align="center">
+	- To create an <b>open-source library</b> to help devs for beign even more productives;<br>
+	- To create a <b>popular multiplatform service</b> to promote some social impact;<br>
+	- To create a <b>rhythm game</b> (or non-common game) available worldwide; and<br>
+	- Be able to create and mantain a small <b>business about game development</b>.<br><br>
+</p>
+<hr>
+<!-- Tip: Any space or tab between link tags, will automatically create a unicode space. -->
+<p align="center">
+	<!--<a align="center" href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Bryceed&show_icons=true&custom_title=Habilidades%20%28Skills%29&locale=pt-br" width="49%"/></a>-->
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bryceed" width="49%" /></a>
+</p>
+<hr>
+<p align="center">
 <a href="https://codepen.io/bryceed" title="CodePen" target="_blank" style="cursor: alias">
   <img src="https://img.shields.io/badge/CODEPEN-000000?style=for-the-badge&logo=codepen" />
 <a/>
@@ -18,8 +27,7 @@ Olá! Meu nome é <b>Wellington</b>, tenho <b>22 anos</b> e sou de <b>Guarulhos/
 ‾ 
 <a href="https://discord.gg/kMpZKFyQmX" title="Discord Server" target="_blank" style="cursor: alias">
   <img src="https://img.shields.io/badge/Discord-5562EA?style=for-the-badge&logo=discord&logoColor=white" />
-<a/>
-<a href="https://m.me/wellingtvd" title="Messenger" target="_blank" style="cursor: alias">
+<a/><a href="https://m.me/wellingtvd" title="Messenger" target="_blank" style="cursor: alias">
   <img src="https://img.shields.io/badge/Messenger-1877F2?style=for-the-badge&logo=messenger&logoColor=white" style="cursor: alias"/>
 <a/>
 <a href="https://api.whatsapp.com/?send=+5511942018873" title="WhatsApp" target="_blank" style="cursor: alias">
@@ -27,9 +35,57 @@ Olá! Meu nome é <b>Wellington</b>, tenho <b>22 anos</b> e sou de <b>Guarulhos/
 <a/>
 <a href="mailto:welltvd+github@gmail.com" title="Gmail" target="_blank" style="cursor: alias">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<a/><br>
+<a/></p><br>
+<!--<h3>🖱️ Knowledge:</small></h3>
+<details><summary>Languages</summary><br>
+	<p>- Portuguese (Brazil): <b>Native</b></p>
+	<p>- English: <b>Advanced</b> - CEF Test: C1 Level / TOEFL iBT: 100 points.</p>
+	<p>- Español: <b>Intermediate</b> - Lengalia CEF Test: B1 Level</p>
+</details>
+<details><summary>Programming Skills</summary><br>
+	<p><i>*Ordered by: Initial learning year ⬆</i></p>
+	<blockquote>
+		<h3><code>2011</code></h3>
+		<p><b>HTML</b> | ██████████</p>
+	</blockquote>
+	<blockquote>
+		<h3><code>2012</code></h3>
+		<p><b>CSS</b> | █████████▒</p>
+		<p><b>JS</b> | ██████▓░░░</p>
+	</blockquote>
+	<blockquote>
+		<h3><code>2013</code></h3>
+		<p><b>jQuery/AJAX</b> | ████▒░░░░░</p>
+		<p><b>PHP</b> | ████████▒░</p>
+		<p><b>MySQL</b> | █████░░░░░</p>
+	</blockquote>
+		<p><code>...to be completed (I prefer to not insert a lang/tec with some doubt about the year). Please, check it later.</code></p>
+	<blockquote>
+		<h3><code>2018</code></h3>
+		<p><b>Node.js</b> | █████░░░░░</p>
+	</blockquote>
+	<blockquote>
+		<h3><code>2019</code></h3>
+		<p><b>C# (for Unity3D)</b> | ███░░░░░░░</p>
+	</blockquote>
+	<blockquote>
+		<h3><code>2020</code></h3>
+		<p><b>Python</b> | ███░░░░░░░</p>
+	</blockquote>
+	<blockquote>
+		<h3><code>2021</code></h3>
+		<p><b>Java</b> | █░░░░░░░░░</p>
+	</blockquote>
+	<blockquote>
+		<h3><code>2021</code></h3>
+		<p><b>React</b> | █▒░░░░░░░░</p>
+		<p><b>React Native</b> | ▓░░░░░░░░░</p>
+		<p><b>Nuxt3</b> | ███▒░░░░░░</p>
+		<p><b>Vue</b> | █▒░░░░░░░░</p>
+	</blockquote>
+</details>-->
 <details>
-  <summary>+ Links</summary>
+	<summary><b>Links</b></summary>
   
   #### Streaming & Games 👾
   <a href="https://youtube.com/rydermais" title="YouTube" target="_blank" style="cursor: alias">
@@ -81,3 +137,6 @@ Olá! Meu nome é <b>Wellington</b>, tenho <b>22 anos</b> e sou de <b>Guarulhos/
 	  <img src="https://img.shields.io/badge/CoinPayments-POS-F7931A?style=for-the-badge&logo=BITCOIN" />
   </a>
 </details>
+
+<p align="right"><br><br>Thanks for visiting my profile!
+<h3 align="right">Wellington do Nascimento</h3></p>
