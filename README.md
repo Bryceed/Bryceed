@@ -8,21 +8,58 @@
 
 ---
 
-<h3>👋 Presentation:</small></h3>
-<p align="center">Hi! My name is <b>Wellington</b>, I have <b>22 years</b> and I'm from Guarulhos (São Paulo/<b>Brazil</b>).<br><br></p>
+<h3>👋 Presentation:</h3>
+<p align="center">Hi! My name is <b>Wellington</b>, I have <b>23 years</b> and I'm from Guarulhos (São Paulo, <b>Brazil</b>).<br><br></p>
 
 ---
 
-<h3>🌎 Missions:</small></h3>
+<h3>🌎 Mission:</h3>
 <p align="center">
 	- To create an <b>open-source library</b> to help devs for beign even more productives;<br>
 	- To create a <b>popular multiplatform service</b> to promote some social impact;<br>
 	- To create a <b>rhythm game</b> (or non-common game) available worldwide; and<br>
 	- Be able to create and mantain a small <b>business about game development</b>.<br><br>
 </p>
+
+---
+
+<h3>👨‍🎓 Education:</h3>
+<p align="center">
+	<b>Certificated</b>
+	<table align="center">
+		<tr>
+			<th>Formation</th>
+			<th>Modules</th>
+			<th>Workload</th>
+		</tr>
+		<tr>
+			<td align="center"><b>Full Stack Dev.</b><br>Recode PRO</td>
+			<td>Programming logic, Java: Fundamentals, HTML, CSS, JavaScript, Bootstrap, DB: Fundamentals, C#, GIT, Agile, DevOps, React.JS: Fundamentals, React.JS: Routes and States, Bootstrap: Intermediate, DB: Intermediate, Java, Java Web: Intermediate, Cloud Computing, Web Servers (Apache/Nginx), DB Online,  React.JS: Advanced, Java Web: Advanced, NoSQL DB (MongoDB & Firebird), Software Testing: Fundamentals, React Native, Linux, ISS, Search Engines, Social Media</td>
+			<td align="right">540h</td>
+		</tr>
+		<tr>
+			<td align="center"><b>IT Basic</b><br>ITEP</td>
+			<td>Computers & Internet, Microsoft Windows, Microsoft Office (Word, Excel and PowerPoint)</td>
+			<td align="right">72h</td>
+		</tr>
+	</table>
+	<!--<p align="center">
+		<b>Self-educated</b>
+		<table align="center">
+			<tr>
+				<th>Title</th>
+				<th>Description</th>
+				<th>Level</th>
+			</tr>
+			<tr>
+				<td align="center"><i>soon</i></td>
+			</tr>
+		</table>
+	</p>-->
+</p>
 <hr>
 <!-- Tip: Any space or tab between link tags, will automatically create a unicode space. -->
-<p align="center"><a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bryceed" width="66%" /></a><a align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryceed&locale=pt-br&hide_border=true&title_color=fb8c01" width="33%"/></a>
+<p align="center"><a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bryceed" width="66%" /></a><a align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryceed&hide_border=true&title_color=fb8c01" width="33%"/></a>
 </p>
 <hr>
 <details>
