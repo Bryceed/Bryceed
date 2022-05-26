@@ -12,30 +12,30 @@
 </p>
 <hr>
 <!-- Tip: Any space or tab between link tags, will automatically create a unicode space. -->
-<p align="center">
-	<!--<a align="center" href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Bryceed&show_icons=true&custom_title=Habilidades%20%28Skills%29&locale=pt-br" width="49%"/></a>-->
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bryceed" width="49%" /></a>
+<p align="center"><a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bryceed" width="66%" /></a><a align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryceed&locale=pt-br&hide_border=true&title_color=fb8c01" width="33%"/></a>
 </p>
 <hr>
-<p align="center">
-<a href="https://codepen.io/bryceed" title="CodePen" target="_blank" style="cursor: alias">
-  <img src="https://img.shields.io/badge/CODEPEN-000000?style=for-the-badge&logo=codepen" />
-<a/>
-<a href="https://linkedin.com/in/wellington-do-nascimento" title="LinkedIn" target="_blank" style="cursor: alias">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<a/>
-‾ 
-<a href="https://discord.gg/kMpZKFyQmX" title="Discord Server" target="_blank" style="cursor: alias">
-  <img src="https://img.shields.io/badge/Discord-5562EA?style=for-the-badge&logo=discord&logoColor=white" />
-<a/><a href="https://m.me/wellingtvd" title="Messenger" target="_blank" style="cursor: alias">
-  <img src="https://img.shields.io/badge/Messenger-1877F2?style=for-the-badge&logo=messenger&logoColor=white" style="cursor: alias"/>
-<a/>
-<a href="https://api.whatsapp.com/?send=+5511942018873" title="WhatsApp" target="_blank" style="cursor: alias">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a/>
-<a href="mailto:welltvd+github@gmail.com" title="Gmail" target="_blank" style="cursor: alias">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<a/></p><br>
+<details>
+	<summary>
+	<p align="center">
+	<a href="https://codepen.io/bryceed" title="CodePen" target="_blank" style="cursor: alias">
+	  <img src="https://img.shields.io/badge/CODEPEN-000000?style=for-the-badge&logo=codepen" />
+	<a/>
+	<a href="https://linkedin.com/in/wellington-do-nascimento" title="LinkedIn" target="_blank" style="cursor: alias">
+	  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+	<a/>
+	‾ 
+	<a href="https://discord.gg/kMpZKFyQmX" title="Discord Server" target="_blank" style="cursor: alias">
+	  <img src="https://img.shields.io/badge/Discord-5562EA?style=for-the-badge&logo=discord&logoColor=white" />
+	<a/><a href="https://m.me/wellingtvd" title="Messenger" target="_blank" style="cursor: alias">
+	  <img src="https://img.shields.io/badge/Messenger-1877F2?style=for-the-badge&logo=messenger&logoColor=white" style="cursor: alias"/>
+	<a/>
+	<a href="https://api.whatsapp.com/?send=+5511942018873" title="WhatsApp" target="_blank" style="cursor: alias">
+	  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+	<a/>
+	<a href="mailto:welltvd+github@gmail.com" title="Gmail" target="_blank" style="cursor: alias">
+	  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	<a/></p><br>
 <!--<h3>🖱️ Knowledge:</small></h3>
 <details><summary>Languages</summary><br>
 	<p>- Portuguese (Brazil): <b>Native</b></p>
@@ -84,8 +84,7 @@
 		<p><b>Vue</b> | █▒░░░░░░░░</p>
 	</blockquote>
 </details>-->
-<details>
-	<summary><b>Links</b></summary>
+<p align="right">(click to expand)</p></summary>
   
   #### Streaming & Games 👾
   <a href="https://youtube.com/rydermais" title="YouTube" target="_blank" style="cursor: alias">
