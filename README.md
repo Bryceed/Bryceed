@@ -37,15 +37,11 @@
 	‾ 
 	<a href="https://discord.gg/kMpZKFyQmX" title="Discord Server" target="_blank" style="cursor: alias">
 	  <img src="https://img.shields.io/badge/Discord-5562EA?style=for-the-badge&logo=discord&logoColor=white" />
-	<a/><a href="https://m.me/wellingtvd" title="Messenger" target="_blank" style="cursor: alias">
-	  <img src="https://img.shields.io/badge/Messenger-1877F2?style=for-the-badge&logo=messenger&logoColor=white" style="cursor: alias"/>
-	<a/>
-	<a href="https://api.whatsapp.com/?send=+5511942018873" title="WhatsApp" target="_blank" style="cursor: alias">
-	  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 	<a/>
 	<a href="mailto:welltvd+github@gmail.com" title="Gmail" target="_blank" style="cursor: alias">
 	  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	<a/></p><br>
+	<a/><br><br><img src="https://komarev.com/ghpvc/?username=Bryceed&logoColor=white"/>
+	</p><br>
 <!--<h3>🖱️ Knowledge:</small></h3>
 <details><summary>Languages</summary><br>
 	<p>- Portuguese (Brazil): <b>Native</b></p>
@@ -124,6 +120,12 @@
   <a href="https://www.instagram.com/bryceed/" title="Instagram" target="_blank" style="cursor: alias">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   <a/>
+	  <a href="https://m.me/wellingtvd" title="Messenger" target="_blank" style="cursor: alias">
+	  <img src="https://img.shields.io/badge/Messenger-1877F2?style=for-the-badge&logo=messenger&logoColor=white" style="cursor: alias"/>
+	<a/>
+	<a href="https://api.whatsapp.com/?send=+5511942018873" title="WhatsApp" target="_blank" style="cursor: alias">
+	  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+	<a/>
 
 #### Music 🎵
     
@@ -148,5 +150,5 @@
 	  <img src="https://img.shields.io/badge/CoinPayments-POS-F7931A?style=for-the-badge&logo=BITCOIN" />
   </a>
 </details>
-<p align="right"><br><br><i>#OpenToWork</i></p>
+<p align="right"><br><br><i>#OpenToWork</i><br></p>
 <h3 align="right">Thanks! :heart:</h3>
