@@ -1,9 +1,18 @@
 ![github-cover](https://user-images.githubusercontent.com/42657376/170435956-b3f24ed5-50c9-4bbb-88f8-9b5c06b8cc57.png)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,bootstrap,discord,bots,cs,flutter,java,dotnet,md,materialui,netlify,nodejs,androidstudio,bash,blender,electron,ps,php,postgres,py,react,nextjs,nuxtjs,vue,regex,spring,sqlite,jquery,svg,wordpress,eclipse,figma,aws,azure,gcp,heroku,mysql,mongodb,visualstudio,vscode,linux,unity&theme=light"  width="90%"/>
+  </a>
+</p>
 
+---
 
 <h3>👋 Presentation:</small></h3>
 <p align="center">Hi! My name is <b>Wellington</b>, I have <b>22 years</b> and I'm from Guarulhos (São Paulo/<b>Brazil</b>).<br><br></p>
+
+---
+
 <h3>🌎 Missions:</small></h3>
 <p align="center">
 	- To create an <b>open-source library</b> to help devs for beign even more productives;<br>
@@ -43,7 +52,7 @@
 	<p>- English: <b>Advanced</b> - CEF Test: C1 Level / TOEFL iBT: 100 points.</p>
 	<p>- Español: <b>Intermediate</b> - Lengalia CEF Test: B1 Level</p>
 </details>
-<details><summary>Programming Skills</summary><br>
+<details align="center"><summary>Programming Skills</summary><br>
 	<p><i>*Ordered by: Initial learning year ⬆</i></p>
 	<blockquote>
 		<h3><code>2011</code></h3>
@@ -85,8 +94,10 @@
 		<p><b>Vue</b> | █▒░░░░░░░░</p>
 	</blockquote>
 </details>-->
-<p align="right">(click to expand)</p></summary>
-  
+   </summary>
+		
+  ##### You have found this secret session. Yay~!
+		
   #### Streaming & Games 👾
   <a href="https://youtube.com/rydermais" title="YouTube" target="_blank" style="cursor: alias">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
@@ -137,6 +148,5 @@
 	  <img src="https://img.shields.io/badge/CoinPayments-POS-F7931A?style=for-the-badge&logo=BITCOIN" />
   </a>
 </details>
-
-<p align="right"><br><br>Thanks for visiting my profile!
-<h3 align="right">Wellington do Nascimento</h3></p>
+<p align="right"><br><br><i>#OpenToWork</i></p>
+<h3 align="right">Thanks! :heart:</h3>
