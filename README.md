@@ -123,7 +123,7 @@
 		<p><b>Vue</b> | █▒░░░░░░░░</p>
 	</blockquote>
 </details>-->
-   </summary>
+   </summary><center>
 		
   ##### You have found this secret session. Yay~!
 		
@@ -187,6 +187,6 @@
   <a href="https://www.coinpayments.net/index.php?cmd=_pos&reset=1&merchant=bee837c2a94b098b386accbde8943cc3&item_name=Order+Payment&currency=BRL&allow_currency=1" title="CoinPayments" target="_blank" style="cursor: alias">
 	  <img src="https://img.shields.io/badge/CoinPayments-POS-F7931A?style=for-the-badge&logo=BITCOIN" />
   </a>
-</details>
+</center></details>
 <p align="right"><br><br><i>#OpenToWork</i><br></p>
 <h3 align="right">Thanks! :heart:</h3>
