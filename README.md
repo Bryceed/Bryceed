@@ -7,7 +7,13 @@
 ---
 
 <h3>👋 Presentation:</h3>
-<p align="center">Hi! My name is <b>Wellington</b>, I have <b>23 years</b> and I'm from Guarulhos (São Paulo, <b>Brazil</b>).<br><br></p>
+<p align="center">
+	Hi! My name is <b>Wellington</b>, I have <b>23 years</b> and I'm from Guarulhos (São Paulo, <b>Brazil</b>).<br><br>
+	<a href="https://en.wikipedia.org/wiki/Autodidacticism" target="_blank"><img src="https://img.shields.io/badge/Autodidact-380EAE?style=for-the-badge&logoColor=white" /></a> 
+	<a href="https://www.16personalities.com/intp-personality" target="_blank"><img src="https://img.shields.io/badge/INTP-7D007B?style=for-the-badge&logoColor=white" /><img src="https://img.shields.io/badge/Personality-610262?style=for-the-badge&logoColor=white" /></a> 
+	<a href="https://lgbtqia.fandom.com/wiki/Bisexual" target="_blank"><img src="https://img.shields.io/badge/LGBTQIA+-EEEEEE?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAKCAYAAACE2W/HAAAAAXNSR0IArs4c6QAAACRJREFUKFNjPM+U+5+BDMA4hDTO9p9Gnh/J1shgsYI8G4eORgAJlRV5MsrwBgAAAABJRU5ErkJggg==" /></a>
+	<br><br>
+</p>
 
 ---
 
@@ -69,11 +75,11 @@
 	<a href="https://linkedin.com/in/wellington-do-nascimento" title="LinkedIn" target="_blank" style="cursor: alias">
 	  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	<a/>
-	‾
-		<img src="https://komarev.com/ghpvc/?username=Bryceed&logoColor=white&style=for-the-badge"/>
-		<a href="https://wakatime.com/@3929a062-5de1-4cb8-89c5-baaadebe7295">
-			<img src="https://wakatime.com/badge/user/3929a062-5de1-4cb8-89c5-baaadebe7295.svg?style=for-the-badge" alt="Total time coded since Aug 30 2021" />
-		</a>
+	‾ 
+	<img src="https://komarev.com/ghpvc/?username=Bryceed&logoColor=white&style=for-the-badge"/>
+	<!--<a href="https://wakatime.com/@3929a062-5de1-4cb8-89c5-baaadebe7295">
+		<img src="https://wakatime.com/badge/user/3929a062-5de1-4cb8-89c5-baaadebe7295.svg?style=for-the-badge" alt="Total time coded since Aug 30 2021" />
+	</a>-->
 	</p><br>
 <!--<h3>🖱️ Knowledge:</small></h3>
 <details><summary>Languages</summary><br>
