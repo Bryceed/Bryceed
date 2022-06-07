@@ -9,9 +9,9 @@
 <h3>👋 Presentation:</h3>
 <p align="center">
 	Hi! My name is <b>Wellington</b>, I have <b>23 years</b> and I'm from Guarulhos (São Paulo, <b>Brazil</b>).<br><br>
-	<a href="https://en.wikipedia.org/wiki/Autodidacticism" target="_blank"><img src="https://img.shields.io/badge/Autodidact-380EAE?style=for-the-badge&logoColor=white" /></a> 
-	<a href="https://www.16personalities.com/intp-personality" target="_blank"><img src="https://img.shields.io/badge/INTP-7D007B?style=for-the-badge&logoColor=white" /><img src="https://img.shields.io/badge/Personality-610262?style=for-the-badge&logoColor=white" /></a> 
-	<a href="https://lgbtqia.fandom.com/wiki/Bisexual" target="_blank"><img src="https://img.shields.io/badge/LGBTQIA+-EEEEEE?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAKCAYAAACE2W/HAAAAAXNSR0IArs4c6QAAACRJREFUKFNjPM+U+5+BDMA4hDTO9p9Gnh/J1shgsYI8G4eORgAJlRV5MsrwBgAAAABJRU5ErkJggg==" /></a>
+	<a href="https://en.wikipedia.org/wiki/Autodidacticism" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Autodidact-380EAE?style=for-the-badge&logoColor=white" /></a> 
+	<a href="https://www.16personalities.com/intp-personality" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/INTP-7D007B?style=for-the-badge&logoColor=white" /><img src="https://img.shields.io/badge/Personality-610262?style=for-the-badge&logoColor=white" /></a> 
+	<a href="https://lgbtqia.fandom.com/wiki/Bisexual" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LGBTQIA+-EEEEEE?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAKCAYAAACE2W/HAAAAAXNSR0IArs4c6QAAACRJREFUKFNjPM+U+5+BDMA4hDTO9p9Gnh/J1shgsYI8G4eORgAJlRV5MsrwBgAAAABJRU5ErkJggg==" /></a>
 	<br><br>
 </p>
 
@@ -63,16 +63,16 @@
 </p>
 <hr>
 <!-- Tip: Any space or tab between link tags, will automatically create a unicode space. -->
-<p align="center"><a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bryceed" width="66%" /></a><a align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryceed&hide_border=true&title_color=fb8c01" width="33%"/></a>
+<p align="center"><a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bryceed" width="66%" /></a><a align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryceed&hide_border=true&title_color=fb8c01" width="33%" /></a>
 </p>
 <hr>
 <details>
 	<summary>
 	<p align="center">
-	<a href="https://codepen.io/bryceed" title="CodePen" target="_blank" style="cursor: alias">
+	<a href="https://codepen.io/bryceed" title="CodePen" target="_blank" style="cursor: alias" rel="noopener">
 	  <img src="https://img.shields.io/badge/CODEPEN-000000?style=for-the-badge&logo=codepen" />
 	<a/>
-	<a href="https://linkedin.com/in/wellington-do-nascimento" title="LinkedIn" target="_blank" style="cursor: alias">
+	<a href="https://linkedin.com/in/wellington-do-nascimento" title="LinkedIn" target="_blank" style="cursor: alias" rel="noopener">
 	  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	<a/>
 	‾ 
@@ -134,63 +134,63 @@
   ##### You have found this secret session. Yay~!
 		
   #### Streaming & Games 👾
-  <a href="https://youtube.com/rydermais" title="YouTube" target="_blank" style="cursor: alias">
+  <a href="https://youtube.com/rydermais" title="YouTube" target="_blank" style="cursor: alias" rel="noopener">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   <a/>
   <a href="https://twitch.tv/Bryceed">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   <a/>
-  <a href="https://account.xbox.com/pt-br/profile?gamertag=BryceedBR" title="Xbox" target="_blank" style="cursor: alias">
+  <a href="https://account.xbox.com/pt-br/profile?gamertag=BryceedBR" title="Xbox" target="_blank" style="cursor: alias" rel="noopener">
     <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
   <a/>
-  <a href="https://steamcommunity.com/id/Bryceed" title="Xbox" target="_blank" style="cursor: alias">
+  <a href="https://steamcommunity.com/id/Bryceed" title="Xbox" target="_blank" style="cursor: alias" rel="noopener">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   <a/>
 <br>
     
 #### Social 👩‍👧‍👦
-  <a href="https://discord.gg/kMpZKFyQmX" title="Discord Server" target="_blank" style="cursor: alias">
+  <a href="https://discord.gg/kMpZKFyQmX" title="Discord Server" target="_blank" style="cursor: alias" rel="noopener">
 	  <img src="https://img.shields.io/badge/Discord-5562EA?style=for-the-badge&logo=discord&logoColor=white" />
 	<a/>
-  <a href="https://web.telegram.org/z/#789099334" title="Telegram" target="_blank" style="cursor: alias">
+  <a href="https://web.telegram.org/z/#789099334" title="Telegram" target="_blank" style="cursor: alias" rel="noopener">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   <a/>
-  <a href="https://twitter.com/welltvd" title="Telegram" target="_blank" style="cursor: alias">
+  <a href="https://twitter.com/welltvd" title="Telegram" target="_blank" style="cursor: alias" rel="noopener">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   <a/>
-  <a href="https://www.instagram.com/bryceed/" title="Instagram" target="_blank" style="cursor: alias">
+  <a href="https://www.instagram.com/bryceed/" title="Instagram" target="_blank" style="cursor: alias" rel="noopener">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   <a/>
-	  <a href="https://m.me/wellingtvd" title="Messenger" target="_blank" style="cursor: alias">
+	  <a href="https://m.me/wellingtvd" title="Messenger" target="_blank" style="cursor: alias" rel="noopener">
 	  <img src="https://img.shields.io/badge/Messenger-1877F2?style=for-the-badge&logo=messenger&logoColor=white" style="cursor: alias"/>
 	<a/>
-	<a href="mailto:welltvd+github@gmail.com" title="Gmail" target="_blank" style="cursor: alias">
+	<a href="mailto:welltvd+github@gmail.com" title="Gmail" target="_blank" style="cursor: alias" rel="noopener">
 	  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	<a/>
-	<a href="https://api.whatsapp.com/?send=+5511942018873" title="WhatsApp" target="_blank" style="cursor: alias">
+	<a href="https://api.whatsapp.com/?send=+5511942018873" title="WhatsApp" target="_blank" style="cursor: alias" rel="noopener">
 	  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 	<a/>
 
 #### Music 🎵
     
-  <a href="https://open.spotify.com/user/welltvd?si=90cc578856814051" title="Spotify" target="_blank" style="cursor: alias">
+  <a href="https://open.spotify.com/user/welltvd?si=90cc578856814051" title="Spotify" target="_blank" style="cursor: alias" rel="noopener">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
   <a/>
-  <a href="https://www.deezer.com/br/profile/2789474802" title="Deezer" target="_blank" style="cursor: alias">
+  <a href="https://www.deezer.com/br/profile/2789474802" title="Deezer" target="_blank" style="cursor: alias" rel="noopener">
     <img src="https://img.shields.io/badge/Deezer-142473?style=for-the-badge&logo=deezer&logoColor=white" />
   <a/>
-  <a href="https://music.youtube.com/channel/UCyi4MjN0PrNMIa8MMOve8lg" title="YouTube Music" target="_blank" style="cursor: alias">
+  <a href="https://music.youtube.com/channel/UCyi4MjN0PrNMIa8MMOve8lg" title="YouTube Music" target="_blank" style="cursor: alias" rel="noopener">
     <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" />
   <a/>
-  <a href="https://soundcloud.com/welltvd" title="SoundCloud" target="_blank" style="cursor: alias">
+  <a href="https://soundcloud.com/welltvd" title="SoundCloud" target="_blank" style="cursor: alias" rel="noopener">
     <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />
   <a/>
     
 #### Donations 💰
-  <a href="https://www.paypal.com/donate?hosted_button_id=AEHKSHS58VBKU" title="PayPal" target="_blank" style="cursor: alias">
+  <a href="https://www.paypal.com/donate?hosted_button_id=AEHKSHS58VBKU" title="PayPal" target="_blank" style="cursor: alias" rel="noopener">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
   <a/>
-  <a href="https://www.coinpayments.net/index.php?cmd=_pos&reset=1&merchant=bee837c2a94b098b386accbde8943cc3&item_name=Order+Payment&currency=BRL&allow_currency=1" title="CoinPayments" target="_blank" style="cursor: alias">
+  <a href="https://www.coinpayments.net/index.php?cmd=_pos&reset=1&merchant=bee837c2a94b098b386accbde8943cc3&item_name=Order+Payment&currency=BRL&allow_currency=1" title="CoinPayments" target="_blank" style="cursor: alias" rel="noopener">
 	  <img src="https://img.shields.io/badge/CoinPayments-POS-F7931A?style=for-the-badge&logo=BITCOIN" />
   </a>
 </center></details>
