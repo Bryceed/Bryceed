@@ -8,7 +8,8 @@
 
 <h3>👋 Presentation:</h3>
 <p align="center">
-	Hi! My name is <b>Wellington</b>, I have <b>23 years</b> and I'm from Guarulhos (São Paulo, <b>Brazil</b>).<br><br>
+	Hi! My name is <b>Wellington</b>, I have <b>23 years</b> and I'm from Guarulhos (São Paulo, <b>Brazil</b>).<br>
+	Working in front-end as a hobby since 2011, my goal is to turn this passion into a profession.<br><br>
 	<a href="https://en.wikipedia.org/wiki/Autodidacticism" target="_blank" rel="noopener">
 		<img src="https://img.shields.io/badge/Autodidact-380EAE?style=for-the-badge&logoColor=white" />
 	</a> 
@@ -25,17 +26,17 @@
 
 <h3>🌎 Mission:</h3>
 <p align="center">
-	- To create an <b>open-source library</b> to help devs for beign even more productives;<br>
+	- To create an <b>open-source library</b> to help devs in some way;<br>
 	- To create a <b>popular multiplatform service</b> to promote some social impact;<br>
-	- To create a <b>rhythm game</b> (or non-common game) available worldwide; and<br>
-	- Be able to create and mantain a small <b>business about game development</b>.<br><br>
+	- To create a <b>rhythm game</b> (or non-common game) available worldwide;<br>
+	- Be able to have my financial independence, to live in another country.<br><br>
 </p>
 
 ---
 
 <h3>👨‍🎓 Education:</h3>
 <p align="center">
-	<b>Certificated</b>
+	<b>Certified</b>
 	<table align="center">
 		<tr>
 			<th>Formation</th>
