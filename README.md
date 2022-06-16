@@ -1,4 +1,4 @@
-![github-cover](https://user-images.githubusercontent.com/42657376/170435956-b3f24ed5-50c9-4bbb-88f8-9b5c06b8cc57.png)
+![170435956-b3f24ed5-50c9-4bbb-88f8-9b5c06b8cc57(1)](https://user-images.githubusercontent.com/42657376/174192978-fa9064ad-715b-41f6-9296-2e9a2d42a834.png)
 
 <p align="center">
 	<img src="https://skillicons.dev/icons?i=git,html,css,js,bootstrap,discord,bots,cs,flutter,java,dotnet,md,materialui,netlify,nodejs,androidstudio,bash,blender,electron,ps,php,postgres,py,react,nextjs,nuxtjs,vue,regex,spring,sqlite,jquery,svg,wordpress,eclipse,figma,aws,azure,gcp,heroku,mysql,mongodb,visualstudio,vscode,linux,unity&theme=light"  width="90%"/>
