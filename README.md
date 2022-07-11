@@ -34,7 +34,36 @@
 
 ---
 
-<h3>👨‍🎓 Education:</h3>
+<!--<h3>👨‍💼 Experience:</h3>
+<p align="center">
+	Professional
+	<table align="center">
+		<tr>
+			<th>Enterprise</th>
+			<th>Details</th>
+			<th>Period</th>
+		</tr>
+		<tr>
+			<td align="center">
+				<img src="https://user-images.githubusercontent.com/42657376/178204950-4f47f67c-aa87-4b00-b57b-15443fbf0629.png"/><br>					<code>ESX</code>
+			</td>
+			<td>
+				<b>Title:</b> Developer Jr.<br>
+				<b>Description:</b> Developer Jr.<br>
+				<b>Skills:</b> --<br><br>
+				<a href="https://linkedin.com/company/esx" title="LinkedIn" target="_blank" style="cursor: alias" rel="noopener">
+	  				<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+				</a>
+				<a href="https://www.esx.com.br/" target="_blank" rel="noopener">
+					<img src="https://img.shields.io/badge/Website-EEEEEE?style=for-the-badge&logo=google-chrome&logoColor=353535" />
+				</a>
+			</td>
+			<td align="right"><code>Temp.</code><br>July/22</td>
+		</tr>
+	</table>
+</p>-->
+
+<h3>🎓 Education:</h3>
 <p align="center">
 	<b>Certified</b>
 	<table align="center">
@@ -44,12 +73,20 @@
 			<th>Workload</th>
 		</tr>
 		<tr>
-			<td align="center"><b>Full Stack Dev.</b><br>Recode PRO</td>
+			<td align="center">
+				<img src="https://user-images.githubusercontent.com/42657376/178207472-ec552f7a-1fd2-44fc-a098-ad2cc506ae29.png" /><br>
+				<code>Recode PRO</code><br>
+				<b>Full Stack Dev.</b>
+			</td>
 			<td>Programming logic, Java: Fundamentals, HTML, CSS, JavaScript, Bootstrap, DB: Fundamentals, C#, GIT, Agile, DevOps, React.JS: Fundamentals, React.JS: Routes and States, Bootstrap: Intermediate, DB: Intermediate, Java, Java Web: Intermediate, Cloud Computing, Web Servers (Apache/Nginx), DB Online,  React.JS: Advanced, Java Web: Advanced, NoSQL DB (MongoDB & Firebird), Software Testing: Fundamentals, React Native, Linux, ISS, Search Engines, Social Media</td>
 			<td align="right">540h</td>
 		</tr>
 		<tr>
-			<td align="center"><b>IT Basic</b><br>ITEP</td>
+			<td align="center">
+				<img src="https://user-images.githubusercontent.com/42657376/178206587-fdd513a7-f38b-424d-aa46-d35f647456fe.png"/><br>
+				<code>ITEP</code><br>
+				<b>IT Basic</b>
+			</td>
 			<td>Computers & Internet, Microsoft Windows, Microsoft Office (Word, Excel and PowerPoint)</td>
 			<td align="right">72h</td>
 		</tr>
