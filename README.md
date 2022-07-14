@@ -34,7 +34,7 @@
 
 ---
 
-<!--<h3>👨‍💼 Experience:</h3>
+<h3>👨‍💼 Experience:</h3>
 <p align="center">
 	Professional
 	<table align="center">
@@ -45,7 +45,7 @@
 		</tr>
 		<tr>
 			<td align="center">
-				<img src="https://user-images.githubusercontent.com/42657376/178204950-4f47f67c-aa87-4b00-b57b-15443fbf0629.png"/><br>					<code>ESX</code>
+				<img src="https://user-images.githubusercontent.com/42657376/178204950-4f47f67c-aa87-4b00-b57b-15443fbf0629.png" width="40%"/><br>					<code>ESX</code>
 			</td>
 			<td>
 				<b>Title:</b> Developer Jr.<br>
@@ -61,7 +61,9 @@
 			<td align="right"><code>Temp.</code><br>July/22</td>
 		</tr>
 	</table>
-</p>-->
+</p><br>
+
+---
 
 <h3>🎓 Education:</h3>
 <p align="center">
@@ -104,7 +106,7 @@
 			</tr>
 		</table>
 	</p>-->
-</p>
+</p><br>
 <hr>
 <!-- Tip: Any space or tab between link tags, will automatically create a unicode space. -->
 <p align="center"><a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bryceed" width="66%" /></a><a align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryceed&hide_border=true&title_color=fb8c01" width="33%" /></a>
