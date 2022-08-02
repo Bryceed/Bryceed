@@ -50,7 +50,7 @@
 			<td>
 				<b>Title:</b> Developer Jr.<br>
 				<b>Description:</b> Developer Jr.<br>
-				<b>Skills:</b> --<br><br>
+				<b>Skills:</b> Flutter, Firebase, Android Studio, Rest API<br><br>
 				<a href="https://linkedin.com/company/esx" title="LinkedIn" target="_blank" style="cursor: alias" rel="noopener">
 	  				<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 				</a>
