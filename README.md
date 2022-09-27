@@ -7,9 +7,13 @@
 ---
 
 <h3>👋 Presentation:</h3>
-<p align="center">
+	<p align="center">
 	Hi! My name is <b>Wellington</b>, I have <b>23 years</b> and I'm from Guarulhos (São Paulo, <b>Brazil</b>).<br>
+	I am an enthusiast of technology and driven by music, I try to unite both worlds whenever it's possible.<br>
 	Working in front-end as a hobby since 2011, my goal is to turn this passion into a profession.<br><br>
+	<a href="https://osu.ppy.sh/Bryceed">
+		<img src="http://lemmmy.pw/osusig/sig.php?colour=hex3C0EB7&uname=Bryceed&pp=2&flagshadow&flagstroke&darktriangles&opaqueavatar&onlineindicator=undefined&xpbar"/>
+	</a><br>
 	<a href="https://en.wikipedia.org/wiki/Autodidacticism" target="_blank" rel="noopener">
 		<img src="https://img.shields.io/badge/Autodidact-380EAE?style=for-the-badge&logoColor=white" />
 	</a> 
@@ -19,7 +23,6 @@
 	<a href="https://lgbtqia.fandom.com/wiki/Bisexual" target="_blank" rel="noopener">
 		<img src="https://img.shields.io/badge/LGBTQIA+-EEEEEE?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAKCAYAAACE2W/HAAAAAXNSR0IArs4c6QAAACRJREFUKFNjPM+U+5+BDMA4hDTO9p9Gnh/J1shgsYI8G4eORgAJlRV5MsrwBgAAAABJRU5ErkJggg==" />
 	</a>
-	<br><br>
 </p>
 
 ---
@@ -244,5 +247,5 @@
 		</a>
 	</p>
 </details>
-<p align="right"><br><br><i>#OpenToWork</i><br></p>
-<h3 align="right">Thanks! :heart:</h3>
+<p align="right"><br><br><i>"Não custa nada sonhar alto pra caramba"</i><br><b>Anitta</b>, 2013</p><br>
+
