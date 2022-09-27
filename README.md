@@ -11,7 +11,7 @@
 	Hi! My name is <b>Wellington</b>, I have <b>23 years</b> and I'm from Guarulhos (São Paulo, <b>Brazil</b>).<br>
 	I am an enthusiast of technology and driven by music, I try to unite both worlds whenever it's possible.<br>
 	Working in front-end as a hobby since 2011, my goal is to turn this passion into a profession.<br><br>
-	<a href="https://osu.ppy.sh/Bryceed">
+	<a href="https://osu.ppy.sh/u/Bryceed">
 		<img src="http://lemmmy.pw/osusig/sig.php?colour=hex3C0EB7&uname=Bryceed&pp=2&flagshadow&flagstroke&darktriangles&opaqueavatar&onlineindicator=undefined&xpbar"/>
 	</a><br>
 	<a href="https://en.wikipedia.org/wiki/Autodidacticism" target="_blank" rel="noopener">
