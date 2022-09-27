@@ -58,7 +58,7 @@
 					<img src="https://img.shields.io/badge/Website-EEEEEE?style=for-the-badge&logo=google-chrome&logoColor=353535" />
 				</a>
 			</td>
-			<td align="right"><code>Temp.</code><br>July/22</td>
+			<td align="right"><code>Effective</code><br>July/22</td>
 		</tr>
 	</table>
 </p><br>
