@@ -51,9 +51,8 @@
 				<img src="https://user-images.githubusercontent.com/42657376/178204950-4f47f67c-aa87-4b00-b57b-15443fbf0629.png" width="40%"/><br>					<code>ESX</code>
 			</td>
 			<td>
-				<b>Title:</b> Developer Jr.<br>
-				<b>Description:</b> Developer Jr.<br>
-				<b>Skills:</b> Flutter, Firebase, Android Studio, Rest API<br><br>
+				<b>Title:</b> Full Stack Developer<br>
+				<b>Skills:</b> <code>Flutter</code> <code>Firebase</code> <code>Android Studio</code> <code>Rest API</code> <code>Node.js</code> <code>Power Platform</code> <code>Power Automate</code> <code>Power Apps</code> <code>Azure DevOps</code> <code>Cloud Computing</code> <code>JavaScript</code> <code>TypeScript</code><br><br>
 				<a href="https://linkedin.com/company/esx" title="LinkedIn" target="_blank" style="cursor: alias" rel="noopener">
 	  				<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 				</a>
