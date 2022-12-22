@@ -1,10 +1,10 @@
 ![170435956-b3f24ed5-50c9-4bbb-88f8-9b5c06b8cc57(1)](https://user-images.githubusercontent.com/42657376/174192978-fa9064ad-715b-41f6-9296-2e9a2d42a834.png)
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=git,html,css,js,bootstrap,discord,bots,cs,flutter,java,dotnet,md,materialui,netlify,nodejs,androidstudio,bash,blender,electron,ps,php,postgres,py,react,nextjs,nuxtjs,vue,regex,spring,sqlite,jquery,svg,wordpress,eclipse,figma,aws,azure,gcp,heroku,mysql,mongodb,visualstudio,vscode,linux,unity&theme=light"  width="90%"/>
+	<img src="https://skillicons.dev/icons?i=git,html,css,js,bootstrap,discord,bots,cs,flutter,java,dotnet,md,materialui,netlify,nodejs,express,nginx,androidstudio,bash,blender,electron,ps,php,postgres,py,react,nextjs,nuxtjs,vue,regex,spring,maven,sqlite,jquery,svg,wordpress,eclipse,cloudflare,workers,figma,xd,aws,azure,gcp,heroku,mysql,mongodb,visualstudio,vscode,neovim,wasm,webpack,linux,unity,unreal,azul,firebase,dart,sass,emotion,deno,pug,selenium,vercel&theme=light"  width="90%"/>
 </p>
+<p align="right"><i>...e <a href="https://osu.ppy.sh/u/Bryceed">jogador de osu</a>.</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
----
 
 <h3>👋 Presentation:</h3>
 	<p align="center">
