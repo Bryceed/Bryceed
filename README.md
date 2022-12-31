@@ -52,7 +52,7 @@
 			</td>
 			<td>
 				<b>Title:</b> Full Stack Developer<br>
-				<b>Skills:</b> <code>Flutter</code> <code>Firebase</code> <code>Android Studio</code> <code>Rest API</code> <code>Node.js</code> <code>Power Platform</code> <code>Power Automate</code> <code>Power Apps</code> <code>Azure DevOps</code> <code>Cloud Computing</code> <code>JavaScript</code> <code>TypeScript</code> <code>C#</code> <code>.NET Core</code> <code>Entity Framework 6</code> <code>SQL Server</code> <code>Google Cloud Platform</code> <code>UI/UX</code> <code>Figma</code><br><br>
+				<b>Skills:</b> <code>Flutter</code> <code>Firebase</code> <code>Android Studio</code> <code>Rest API</code> <code>Node.js</code> <code>Power Platform</code> <code>Power Automate</code> <code>Power Apps</code> <code>Azure DevOps</code> <code>Cloud Computing</code> <code>JavaScript</code> <code>TypeScript</code> <code>C#</code> <code>.NET Core</code> <code>Entity Framework 6</code> <code>SQL Server</code> <code>Google Cloud Platform</code> <code>UI/UX</code> <code>Figma</code> <code>VTEX IO</code> <code>CSS</code><br><br>
 				<a href="https://linkedin.com/company/esx" title="LinkedIn" target="_blank" style="cursor: alias" rel="noopener">
 	  				<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 				</a>
