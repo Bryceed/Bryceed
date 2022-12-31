@@ -48,7 +48,7 @@
 		</tr>
 		<tr>
 			<td align="center">
-				<img src="https://user-images.githubusercontent.com/42657376/178204950-4f47f67c-aa87-4b00-b57b-15443fbf0629.png" width="40%"/><br>					<code>ESX</code>
+				<img src="https://user-images.githubusercontent.com/42657376/178204950-4f47f67c-aa87-4b00-b57b-15443fbf0629.png" width="70%"/><br>					<code>ESX</code>
 			</td>
 			<td>
 				<b>Title:</b> Full Stack Developer<br>
