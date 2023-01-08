@@ -267,4 +267,4 @@ Professional
 </a>
 </p>
 </details>
-<p align="right"><br><br><i>"Não custa nada sonhar alto pra caramba"</i><br><b>Anitta</b>, 2013</p><br>
+<p align="right"><br><br><i>(It costs nothing to dream really high as hell)<br>"Não custa nada sonhar alto pra caramba"</i><br><br><b>Anitta</b>, in the crowd at Rock In Rio (2013)</p><br>
