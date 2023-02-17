@@ -3,7 +3,7 @@
 <p align="center">  
 	<img src="https://skillicons.dev/icons?i=git,html,css,js,bootstrap,discord,bots,cs,flutter,java,dotnet,md,materialui,netlify,nodejs,express,nginx,androidstudio,bash,blender,electron,ps,php,postgres,py,react,nextjs,nuxtjs,vue,regex,spring,maven,sqlite,jquery,svg,wordpress,eclipse,cloudflare,workers,figma,xd,aws,azure,gcp,heroku,mysql,mongodb,visualstudio,vscode,neovim,wasm,webpack,linux,unity,unreal,azul,firebase,dart,sass,emotion,deno,pug,selenium,vercel&theme=light"  width="90%"/>
 </p>
-<p align="right"><i>...e <a href="https://osu.ppy.sh/u/Bryceed">jogador de osu</a>.</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p align="right"><i>...e <a href="https://lazer.ppy.sh/u/Bryceed">jogador de osu</a>.</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 
 <h3>👋 Presentation:</h3>
@@ -50,7 +50,7 @@ Professional
 </td>
 <td>
 <b>Title:</b> Full Stack Developer<br>
-<b>Skills:</b> <code>Flutter</code> <code>Firebase</code> <code>Android Studio</code> <code>Rest API</code> <code>Node.js</code> <code>Power Platform</code> <code>Power Automate</code> <code>Power Apps</code> <code>Azure DevOps</code> <code>Cloud Computing</code> <code>JavaScript</code> <code>TypeScript</code> <code>C#</code> <code>.NET Core</code> <code>Entity Framework 6</code> <code>SQL Server</code> <code>Google Cloud Platform</code> <code>UI/UX</code> <code>Figma</code> <code>VTEX IO</code> <code>CSS</code> <code>JavaScript</code> <code>jQuery</code><br><br>
+<b>Skills:</b> <code>Flutter</code> <code>Firebase</code> <code>Android Studio</code> <code>Rest API</code> <code>Node.js</code> <code>Power Platform</code> <code>Power Automate</code> <code>Power Apps</code> <code>Azure DevOps</code> <code>Cloud Computing</code> <code>JavaScript</code> <code>TypeScript</code> <code>C#</code> <code>.NET Core</code> <code>Entity Framework 6</code> <code>SQL Server</code> <code>Google Cloud Platform</code> <code>UI/UX</code> <code>Figma</code> <code>VTEX IO</code> <code>CSS</code> <code>JavaScript</code> <code>jQuery</code> <code>Azure Clarity</code> <code>A/B Tests</code> <code>Google Analytics 4</code> <code>Jira</code> <code>BitBucket</code> <code>Agile</code> <code>Scrum</code><br><br>
 <a href="https://linkedin.com/company/esx" title="LinkedIn" target="_blank" style="cursor: alias" rel="noopener">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -267,4 +267,4 @@ Professional
 </a>
 </p>
 </details>
-<p align="right"><br><br><i>(It costs nothing to dream really high as hell)<br>"Não custa nada sonhar alto pra caramba"</i><br><br><b>Anitta</b>, in the crowd at Rock In Rio (2013)</p><br>
+<p align="right"><br><br><i>(It costs nothing to dream really high as hell)<br>"Não custa nada sonhar alto pra caramba"</i><br><br><b>Anitta</b> - 2013</p><br>
