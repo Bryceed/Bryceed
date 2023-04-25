@@ -5,7 +5,6 @@
 </p>
 <p align="right"><i>...e <a href="https://lazer.ppy.sh/u/Bryceed">jogador de osu</a>.</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
-
 <h3>👋 Presentation:</h3>
 <p align="center">
 Hi! My name is <b>Wellington</b>, I have <b>23 years</b> and I'm from Guarulhos (São Paulo, <b>Brazil</b>).<br>
