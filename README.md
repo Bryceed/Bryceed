@@ -266,4 +266,3 @@ Professional
 </a>
 </p>
 </details>
-<p align="right"><br><br><i>(It costs nothing to dream really high as hell)<br>"Não custa nada sonhar alto pra caramba"</i><br><br><b>Anitta</b> - 2013</p><br>
