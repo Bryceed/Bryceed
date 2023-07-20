@@ -74,6 +74,123 @@ Professional
 <th>Content</th>
 <th>Workload</th>
 </tr>
+		<tr>
+<td align="center">
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://alura.com.br"><img src="https://github.com/Bryceed/bryceed/assets/42657376/1922d177-0e16-4dc5-ab00-aaff5c92863c" width="140px"/></a>&nbsp; &nbsp; &nbsp; &nbsp; <br>
+<code>Faculdade</code><br><code>Descomplica</code><br>
+<b>Computer Engineering</b><br><br>
+</td>
+<td>
+	<h4>Overview</h4>
+	<p>Designing and building hardware, physical and virtual structures, integrating electronic circuits and developing softwares for computers and mobile, CyberSecurity, Governance 4.0 and Artificial Intelligence.</p>
+	<details><summary><h4>Curriculum</h4></summary>
+	<ol>
+		<li><details><summary><b>Architecture and Organization of Computers</b></summary>
+			<ul>
+				<li>Coaching and Career Planning</li>
+				<li>Architecture and Organization of Computers</li>
+				<li>Computer Architecture of the XXI Century</li>
+			</ul></details>
+		</li>
+		<li><details><summary><b>Programming Basics</b></summary>
+			<ul>
+				<li>Creation of Applications and Systems</li>
+				<li>Analysis and Survey of Software Requirements</li>
+			</ul></details>
+		</li>
+		<li><details><summary><b>Object-Oriented Development</b></summary>
+			<ul>
+				<li>Extreme Programming</li>
+				<li>Software Design</li>
+				<li>Electronics</li>
+			</ul></details>
+		</li>
+		<li><details><summary><b>DB Developer</b></summary>
+			<ul>
+				<li>Database Application Development</li>
+				<li>Integrative Practice Software Development</li>
+			</ul></details>
+		</li>
+		<li><details><summary><b>Smart Data Structures</b></summary>
+			<ul>
+				<li>Software Development Methodologies</li>
+				<li>Applied Differential Mathematics</li>
+				<li>Data Structures for Intelligent Systems</li>
+			</ul></details>
+		</li>
+		<li><details><summary><b>Mobile Developer</b></summary>
+			<ul>
+				<li>Mobile Development</li>
+				<li>Integrative Practice App Development</li>
+			</ul></details>
+		</li>
+		<li><details><summary><b>Local Area Network</b></summary>
+			<ul>
+				<li>Problem Solving with Integrals</li>
+				<li>Technology Solutions for Cloud and Networks</li>
+				<li>Local Network Administration</li>
+			</ul></details>
+		</li>
+		<li><details><summary><b>Global Network</b></summary>
+			<ul>
+				<li>Global Network Infrastructure</li>
+				<li>Network Administration Integrative Practice</li>
+			</ul></details>
+		</li>
+		<li><details><summary><b>Cloud Platform</b></summary>
+			<ul>
+				<li>Analytic Geometry and Linear Systems</li>
+				<li>Platforms for Cloud Development</li>
+				<li>Digital Systems and Microprocessors</li>
+			</ul></details>
+		</li>
+		<li><details><summary><b>Internet of Things (IoT)</b></summary>
+			<ul>
+				<li>Internet of Thing</li>
+				<li>Cloud Computing Integrative Practice</li>
+			</ul></details>
+		</li>
+		<li><details><summary><b>Digital Governance 4.0</b></summary>
+			<ul>
+				<li>Advanced Project Management</li>
+				<li>Transport Phenomena</li>
+				<li>IT Governance integrated with Strategic Management</li>
+			</ul></details>
+		</li>
+		<li><details><summary><b>CyberSecurity</b></summary>
+			<ul>
+				<li>CyberSecurity</li>
+				<li>Integrative Practice Governance and Security</li>
+			</ul></details>
+		</li>
+		<li><details><summary><b>Responsive Interfaces</b></summary>
+			<ul>
+				<li>Development of Responsive Web Solutions with UX</li>
+				<li>Science, Technology and Society</li>
+			</ul></details>
+		</li>
+		<li><details><summary><b>User Experience</b></summary>
+			<ul>
+				<li>Entrepreneurship and New Business Creation</li>
+				<li>UX System Integrator Practice</li>
+			</ul></details>
+		</li>
+		<li><details><summary><b>Artificial Intelligence Applied</b></summary>
+			<ul>
+				<li>Social Training and Sustainability</li>
+				<li>Algorithm Development of Artificial Intelligence</li>
+			</ul></details>
+		</li>
+		<li><details><summary><b>DB Tuning</b></summary>
+			<ul>
+				<li>Database Tuning</li>
+				<li>Integrative Practice Disruptive Technologies</li>
+			</ul></details>
+		</li>
+	</ol></details>
+</td>
+<td align="right">8 semesters (expected completion: 2027)</td>
+</tr>
 <tr>
 <td align="center">
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://alura.com.br"><img src="https://user-images.githubusercontent.com/42657376/211171774-a4ea8b07-4e0a-43cf-95e2-d9b314d9e430.png" width="140px"/></a>&nbsp; &nbsp; &nbsp; &nbsp; <br>
@@ -96,6 +213,7 @@ Professional
 </td>
 <td align="right">avg. 8h<br><i>each module</i></td>
 </tr>
+
 <tr>
 <td align="center">
 &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/42657376/178207472-ec552f7a-1fd2-44fc-a098-ad2cc506ae29.png" width="140px"/>&nbsp; &nbsp; &nbsp; &nbsp; <br>
