@@ -17,8 +17,8 @@ Working in front-end as a hobby since 2011, my goal is to turn this passion into
 <a href="https://www.16personalities.com/intp-personality" target="_blank" rel="noopener">
 <img src="https://img.shields.io/badge/INTP-7D007B?style=for-the-badge&logoColor=white" /><img src="https://img.shields.io/badge/Personality-610262?style=for-the-badge&logoColor=white" />
 </a> 
-<a href="https://lgbtqia.fandom.com/wiki/Bisexual" target="_blank" rel="noopener">
-<img src="https://img.shields.io/badge/LGBTQIA+-EEEEEE?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAKCAYAAACE2W/HAAAAAXNSR0IArs4c6QAAACRJREFUKFNjPM+U+5+BDMA4hDTO9p9Gnh/J1shgsYI8G4eORgAJlRV5MsrwBgAAAABJRU5ErkJggg==" />
+<a href="https://www.lgbtqia.wiki/wiki/Demibisexual" target="_blank" rel="noopener">
+<img src="https://img.shields.io/badge/LGBTQIAPN+-EEEEEE?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAKCAYAAACE2W/HAAAAAXNSR0IArs4c6QAAACRJREFUKFNjPM+U+5+BDMA4hDTO9p9Gnh/J1shgsYI8G4eORgAJlRV5MsrwBgAAAABJRU5ErkJggg==" />
 </a>
 </p>
 
