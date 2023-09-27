@@ -3,7 +3,7 @@
 <p align="center">  
 	<img src="https://skillicons.dev/icons?i=git,html,css,js,bootstrap,discord,bots,cs,flutter,java,dotnet,md,materialui,netlify,nodejs,express,nginx,androidstudio,bash,blender,electron,ps,php,postgres,py,react,nextjs,nuxtjs,vue,regex,spring,maven,sqlite,jquery,svg,wordpress,eclipse,cloudflare,workers,figma,xd,aws,azure,gcp,heroku,mysql,mongodb,visualstudio,vscode,neovim,wasm,webpack,linux,unity,unreal,azul,firebase,dart,sass,emotion,deno,pug,selenium,vercel&theme=light"  width="90%"/>
 </p>
-<p align="right"><i>...and a <a href="https://lazer.ppy.sh/u/Bryceed">osu player</a>.</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p align="right"><i>...and <a href="https://lazer.ppy.sh/u/Bryceed">osu player</a>.</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 <h3>👋 Presentation:</h3>
 <p align="center">
@@ -39,7 +39,7 @@ Working in front-end as a hobby since 2011, my goal is to turn this passion into
 Professional
 <table align="center">
 <tr>
-<th>Enterprise</th>
+<th>Company</th>
 <th>Details</th>
 <th>Period</th>
 </tr>
