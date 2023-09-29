@@ -3,7 +3,7 @@
 <p align="center">  
 	<img src="https://skillicons.dev/icons?i=git,html,css,js,bootstrap,discord,bots,cs,flutter,java,dotnet,md,materialui,netlify,nodejs,express,nginx,androidstudio,bash,blender,electron,ps,php,postgres,py,react,nextjs,nuxtjs,vue,regex,spring,maven,sqlite,jquery,svg,wordpress,eclipse,cloudflare,workers,figma,xd,aws,azure,gcp,heroku,mysql,mongodb,visualstudio,vscode,neovim,wasm,webpack,linux,unity,unreal,azul,firebase,dart,sass,emotion,deno,pug,selenium,vercel&theme=light"  width="90%"/>
 </p>
-<p align="right"><i>...and <a href="https://lazer.ppy.sh/u/Bryceed">osu player</a>.</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p align="center"><i>...and <a href="https://lazer.ppy.sh/u/Bryceed">osu player</a>.</i><br><a href="https://lazer.ppy.sh/u/Bryceed"><img src="https://lemmmy.pw/osusig/sig.php?colour=hex3d10c4&uname=Bryceed&pp=2&countryrank&flagshadow&darktriangles&opaqueavatar&onlineindicator=undefined&xpbar&xpbarhex"/></a></p>
 
 <h3>👋 Presentation:</h3>
 <p align="center">
@@ -263,8 +263,6 @@ Professional
 </a>
 ‾ 
 <img src="https://komarev.com/ghpvc/?username=Bryceed&logoColor=white&style=for-the-badge"/>
-<br>
-<img src="http://lemmmy.pw/osusig/sig.php?colour=hexaadd00&uname=Bryceed&pp=2&flagshadow&darktriangles&opaqueavatar&onlineindicator=undefined&xpbar"/>
 <!--<a href="https://wakatime.com/@3929a062-5de1-4cb8-89c5-baaadebe7295">
 <img src="https://wakatime.com/badge/user/3929a062-5de1-4cb8-89c5-baaadebe7295.svg?style=for-the-badge" alt="Total time coded since Aug 30 2021" />
 </a>-->
@@ -386,3 +384,5 @@ Professional
 </a>
 </p>
 </details>
+<br><br><br>
+<a href="https://lazer.ppy.sh/u/Bryceed"></a>
