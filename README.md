@@ -263,6 +263,8 @@ Professional
 </a>
 ‾ 
 <img src="https://komarev.com/ghpvc/?username=Bryceed&logoColor=white&style=for-the-badge"/>
+<br>
+<img src="http://lemmmy.pw/osusig/sig.php?colour=hexaadd00&uname=Bryceed&pp=2&flagshadow&darktriangles&opaqueavatar&onlineindicator=undefined&xpbar"/>
 <!--<a href="https://wakatime.com/@3929a062-5de1-4cb8-89c5-baaadebe7295">
 <img src="https://wakatime.com/badge/user/3929a062-5de1-4cb8-89c5-baaadebe7295.svg?style=for-the-badge" alt="Total time coded since Aug 30 2021" />
 </a>-->
