@@ -14,7 +14,7 @@ Working in front-end as a hobby since 2011, my goal is to turn this passion into
 <a href="https://en.wikipedia.org/wiki/Autodidacticism" target="_blank" rel="noopener">
 <img src="https://img.shields.io/badge/Autodidact-380EAE?style=for-the-badge&logoColor=white" />
 </a> 
-<a href="https://www.16personalities.com/intp-personality" target="_blank" rel="noopener">
+<a href="https://www.16personalities.com/br/resultados/intp-t/x/kl6yw3qe6" target="_blank" rel="noopener">
 <img src="https://img.shields.io/badge/INTP-7D007B?style=for-the-badge&logoColor=white" /><img src="https://img.shields.io/badge/Personality-610262?style=for-the-badge&logoColor=white" />
 </a> 
 <a href="https://www.lgbtqia.wiki/wiki/Demibisexual" target="_blank" rel="noopener">
